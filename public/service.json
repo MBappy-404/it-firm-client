@@ -1,0 +1,79 @@
+[
+     {
+          "name": "Web Development",
+          "logo": "https://stiffentechnologies.com/wp-content/uploads/2021/11/Web-Development.jpg",
+          "description ": "Web development service is the process of creating and building websites or web applications that are accessible through the internet. Web development services involve designing, coding, testing, and deploying websites to meet the specific needs of businesses and organizations. Some of the most common web development services include: Web design: This involves creating the layout, color scheme, typography, and user interface of a website.Front-end development: This involves coding the user-facing part of a website using HTML, CSS, and JavaScript.Back-end development: This involves coding the server-side of a website, including the database, server, and application code. Full-stack development: This involves both front-end and back-end development to create a complete web application.",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "Web Design",
+          "logo": "https://www.thecreativemomentum.com/hubfs/blog-files/2007%20batch/2007-10-Sites%20for%20Web%20Design%20Inspiration-h-1.jpg",
+          "description ": "Web design service is the process of creating the visual and functional elements of a website to make it visually appealing, easy to navigate, and user-friendly. Web design services focus on creating an aesthetically pleasing and engaging website that is optimized for user experience and functionality. Some of the most common web design services include: Layout design: This involves designing the structure of the website, including the placement of menus, buttons, and other elements.Color scheme design: This involves selecting an appropriate color palette for the website to create a visually appealing and cohesive look. Typography design: This involves selecting appropriate fonts and font sizes for the website to ensure readability and accessibility.Graphic design: This involves creating or selecting appropriate images, icons, and other visual elements for the website.",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "Digital Marketing",
+          "logo": "https://assets.entrepreneur.com/content/3x2/2000/1635968078-GettyImages-913248994.jpghem",
+          "description ": "Digital marketing service refers to the use of digital channels and technologies to promote a brand, product, or service. Digital marketing services help businesses and organizations reach their target audience through online platforms such as search engines, social media, email, and mobile devices. Some of the most common digital marketing services include:  Search Engine Optimization (SEO): This involves optimizing a website or web page to rank higher in search engine results pages (SERPs) to increase organic traffic. Pay-per-click (PPC) advertising: This involves placing ads on search engine results pages or social media platforms and paying for each click on the ad.Social media marketing: This involves using social media platforms such as Facebook, Twitter, and Instagram to promote a brand or product.Content marketing: This involves creating and distributing valuable content to attract and retain a target audience. Email marketing: This involves using email campaigns to reach out to potential or existing customers and promote a product or service.Affiliate marketing: This involves partnering with other businesses or individuals to promote a product or service and earning a commission on each sale.",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "App Development",
+          "logo": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg",
+          "description ": "An app development company provides services related to the design, development, testing, and deployment of mobile applications for businesses and organizations. These services typically include:Consultation and planning: The app development company works with the client to understand their business objectives, target audience, and requirements for the mobile app.Design: The app development company creates a user interface (UI) and user experience (UX) design that aligns with the client's branding and functionality needs.Development: The app development company builds the mobile app using coding languages such as Swift, Java, and Kotlin, ensuring compatibility with iOS and Android platforms.Testing: The app development company performs quality assurance testing to ensure that the mobile app functions correctly and meets the client's requirements. Deployment: The app development company launches the mobile app on the app stores, such as the Apple App Store and Google Play Store, making it available to the public.",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "Creative Service",
+          "logo": "https://www.puremeetingservices.com/wp-content/uploads/2020/08/creative-services.jpg",
+          "description ": "Creative services refer to a broad range of professional services that involve the use of creativity and imagination to produce a unique, original product or service. These services can include graphic design, branding, advertising, copywriting, photography, videography, animation, and more.  Creative service providers often work with clients to develop a visual identity or brand that represents their business or organization. They may create logos, website designs, marketing materials, and other visual elements that align with the client's branding strategy and marketing objectives.Copywriting is another important aspect of creative services, which involves creating compelling and persuasive content for marketing materials, websites, and other digital platforms. Copywriters use language and tone to convey a message or tell a story that resonates with the target audience and inspires action.",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "Motion Graphics",
+          "logo": "https://blog.vmgstudios.com/hubfs/custom-video-thumbnails/Motion-Graphics-Header-VMG-Studios-thumb.jpeg",
+          "description ": "Motion graphics services involve the creation of high-quality, visually stunning animations and graphics for a variety of video productions. These services are often provided by motion graphics studios or individual motion graphics designers. Motion graphics services typically include: Concept Development: The motion graphics designer works with the client to understand their requirements, target audience, and objectives. They develop a concept for the animation that aligns with the client's brand and messaging Storyboarding: The motion graphics designer creates a storyboard that outlines the visual elements and sequences of the animation. This helps the client visualize the animation and provide feedback before the production process begins Graphic Design: The motion graphics designer creates the visual elements for the animation, including graphics, typography, and other design elements.",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "Cyber Security",
+          "logo": "https://technojogja.com/wp-content/uploads/2021/07/Cyber-Security-800x531.jpg",
+          "description ": "We all know a fresh coat of paint can do wonders for updating a space.…",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "Product & Design",
+          "logo": "https://peopledevelopmentmagazine.com/wp-content/uploads/2016/11/Product-Design-Challenges-People-Development-Magazine.jpg",
+          "description ": "Cybersecurity services refer to the range of professional services that help individuals and organizations protect their digital assets from cyber threats. These services can include vulnerability assessments, penetration testing, security consulting, risk assessments, incident response, and more.The importance of cybersecurity has grown in recent years due to the increasing frequency and sophistication of cyber attacks. Cybersecurity service providers work with clients to identify and mitigate potential security risks and vulnerabilities, helping to prevent data breaches, theft, and other malicious activities.",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "Data Recovery",
+          "logo": "https://www.techprevue.com/wp-content/uploads/2017/09/data-recovery-tool.jpg",
+          "description ": "Data recovery companies provide professional services for the recovery of lost or inaccessible data from various types of storage media. This can include hard drives, SSDs, USB drives, memory cards, RAID systems, and more.Data recovery services typically involve the following steps: Evaluation: The data recovery company evaluates the storage media to determine the extent of the damage and the likelihood of data recovery.  Recovery: The data recovery company uses specialized tools and techniques to recover the lost data. This may involve repairing or replacing damaged hardware components, or using software to recover lost or corrupted data. Verification: The data recovery company verifies the recovered data to ensure that it is complete and accurate. This may involve comparing the recovered data to backup copies or other sources of data. Delivery: The data recovery company delivers the recovered data to the client, typically on a new storage device or via secure online transfer.",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "Cloud Solutions",
+          "logo": "https://vibhaitsolutions.ga/wp-content/uploads/2021/04/Cloud-Solutions-North-Vancouver.png",
+          "description ": "A cloud solutions company provides a range of services related to cloud computing, including the deployment, management, and support of cloud-based infrastructure, applications, and services.Cloud solutions companies can help organizations to migrate their existing IT systems and applications to the cloud, or to develop new cloud-based solutions from scratch. They may also provide ongoing management and support services for cloud-based infrastructure and applications, such as monitoring, maintenance, and troubleshooting. Some of the key services offered by cloud solutions companies include:  Cloud migration: The cloud solutions company helps organizations to migrate their existing IT systems and applications to the cloud. Cloud infrastructure deployment: The cloud solutions company deploys cloud-based infrastructure, such as virtual servers, storage, and networking, to support the organization's IT needs. Cloud application development: The cloud solutions company develops custom cloud-based applications and solutions to meet the organization's specific needs.",
+          "price": "$74",
+          "rating": "4.0"
+     },
+     {
+          "name": "Software Development",
+          "logo": "https://okcredit-blog-images-prod.storage.googleapis.com/2021/03/Software-Development-Business1--1-.jpg",
+          "description ": "Software development is the process of designing, building, testing, and maintaining software applications. It involves a range of activities, including analyzing user requirements, creating software design specifications, writing code, debugging, testing, and deploying software.Software development can involve developing applications for various platforms, including desktop computers, mobile devices, and web browsers. It can also involve creating custom software solutions for businesses to help automate processes or provide unique functionality.Software development services are typically provided by software development companies or freelance developers. These services may include: Custom software development: Creating software tailored to a client's specific needs and requirements. Web development: Designing and building websites or web applications using programming languages such as HTML, CSS, and JavaScript. Mobile app development: Developing applications for mobile devices such as smartphones and tablets using platforms such as iOS and Android.",
+          "price": "$74",
+          "rating": "4.0"
+     }
+]
