@@ -31,7 +31,7 @@ const AllService = () => {
                   
                   <div class="flex h-full items-center justify-center">
                     <div class="px-6 text-center text-white md:px-12">
-                      <h1 class="mb-6 text-5xl font-bold  leading-tight ">Awesome IT Services  for  <br />
+                      <h1 class="mb-6 text-3xl md:text-5xl font-bold  leading-tight ">Awesome IT Services  for  <br />
                        <span className='  text-purple-400 '>Your Business</span>
                        </h1>
                       <button 

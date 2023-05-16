@@ -1,11 +1,10 @@
-body{
-     font-family: 'Oswald', sans-serif;
-}
-p{
-     font-family: sans-serif;
+body {
+     font-family: 'Wix Madefor Text', sans-serif;
 }
 
+ 
 .bg_color {
-     background-image: linear-gradient(120deg, #0045FF 0%, #BD29F2 100%);
+     background-image: linear-gradient(110deg, #0045FF 0%, #BD29F2 100%);
 
 }
+ 

@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaStar } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
 const ShowAllService = ({allService,refetch}) => {
@@ -24,7 +25,7 @@ const ShowAllService = ({allService,refetch}) => {
             </p>
             <div className='font-semibold leading-relaxed'>
             <p>Price: {price}</p> 
-            <p>Rating: {rating}</p>
+            <p>Rating: {rating}  <FaStar className='w-4 h-4 inline mb-2 ml-1 text-yellow-400'></FaStar> </p>
             </div> 
             <button
               type="button"

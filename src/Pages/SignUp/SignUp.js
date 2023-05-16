@@ -1,8 +1,9 @@
 import React, { useContext, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import logo from '../../Assets/Images/Logo.png'
+import logo from '../../Assets/Images/LogoBlack.png'
 import { useForm } from 'react-hook-form'
 import { authContext } from '../../AuthProvider/Auth';
+import toast, { Toaster } from 'react-hot-toast';
 
 const SignUp = () => {
      const { register, formState: { errors }, handleSubmit } = useForm();
@@ -25,7 +26,15 @@ const SignUp = () => {
 
                updateUser(userInfo)
                .then(()=>{
-                    navigate('/home')
+                    toast.success('Sign Up Successfully!')
+                    let count = 0;
+                    function incrementCounter() {
+                         count++;
+                         if(count === 2){
+                              return  navigate('/home')
+                         }
+                    }
+                    setInterval(incrementCounter, 1000);
                })
                .catch(err =>{
                     setSignupError(err.message)
@@ -108,6 +117,7 @@ const SignUp = () => {
                 </svg>
                 <span class="ml-3">
                  Sign Up
+                 <Toaster/>
                 </span>
               </button>
 
